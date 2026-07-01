@@ -1,6 +1,7 @@
 .popup {
     border: 1px solid #000;
     background: #E8E8E8;
+    /* padding-top, bottom으로 써야하는가? */
     padding: 12px 0;
 }
 .top-bar {
@@ -26,4 +27,5 @@
 .user-box-ul {
     border: 1px solid orange;
     display: flex;
+    gap: 16px;
 }
