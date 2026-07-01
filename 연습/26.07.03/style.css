@@ -1,0 +1,29 @@
+.popup {
+    border: 1px solid #000;
+    background: #E8E8E8;
+    padding: 12px 0;
+}
+.top-bar {
+    border: 1px solid #000;
+    background: #FFF;
+    padding: 16px 20px;
+    display: flex; justify-content: space-between;
+}
+.menu01 {
+    border: 1px solid red;
+}
+.menu01-ul {
+    border: 1px solid orange;
+    display: flex;
+    gap: 16px;
+}
+.logo-box {
+    border: 1px solid red;
+}
+.user-box {
+    border: 1px solid red;
+}
+.user-box-ul {
+    border: 1px solid orange;
+    display: flex;
+}
